@@ -14,6 +14,8 @@ TensorFlow (https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#
 
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
+Python version 2.7
+
 Basic Usage
 ===========
 
